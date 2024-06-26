@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,11 +74,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # weather-react-application
 =======
+=======
+>>>>>>> cbe83aca5b9b7af8a29de290b8ba9fb23bb12e6f
 # weather-react-application
 
 <<<<<<< HEAD
 This is the content from your current branch (main or master)
 =======
 This is the content from the branch you're merging (origin/main)
+<<<<<<< HEAD
+>>>>>>> cbe83aca5b9b7af8a29de290b8ba9fb23bb12e6f
+=======
 >>>>>>> cbe83aca5b9b7af8a29de290b8ba9fb23bb12e6f
 >>>>>>> origin/main
