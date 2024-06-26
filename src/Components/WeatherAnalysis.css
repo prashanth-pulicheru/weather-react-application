@@ -1,0 +1,19 @@
+.weather_analysis {
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+h3 {
+    color: rgb(67, 159, 81);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.ngtcls{
+    color: rgb(205, 61, 21);
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+}
+#wAloc{
+    color: rgb(184, 206, 17);
+    font-weight: 600;
+}
