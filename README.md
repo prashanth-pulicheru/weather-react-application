@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +72,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # weather-react-application
+=======
+# weather-react-application
+
+<<<<<<< HEAD
+This is the content from your current branch (main or master)
+=======
+This is the content from the branch you're merging (origin/main)
+>>>>>>> cbe83aca5b9b7af8a29de290b8ba9fb23bb12e6f
 >>>>>>> origin/main
